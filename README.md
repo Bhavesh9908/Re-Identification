@@ -6,9 +6,9 @@ This project implements real-time object detection and visual re-identification 
 
 ## 🎥 Output Videos
 
-- **Detection Output**: [Watch Here](https://drive.google.com/file/d/13kmD6-okO3aXi5eeDLywpmoQw8kwZ852B/view?usp=drive_link) /
+- **Detection Output**: [Watch Here](https://drive.google.com/file/d/13kmD6-oK3aXi5eeDLywpmoQw8kwZ852B/view?usp=drive_link) /
    **Detection frames** [ https://drive.google.com/drive/folders/1Xrk7oGRA1XTZMAoiN6NCOWggEV0R3Vi3?usp=sharing ] 
-- **Tracking with Re-ID Output**: [Watch Here](https://drive.google.com/file/d/12aCxKEAAmle_fxovcP5D956Z371PBvJ/view?usp=drive_link)
+- **Tracking with Re-ID Output**: [Watch Here](https://drive.google.com/file/d/12aCxKEAAmIe_fxovvcP5D956Z371PBvJ/view?usp=drive_link)
   **Tracking with Re-ID Frames**:[  https://drive.google.com/drive/folders/1jTjrXHmQxdmTtUxKKnZSz3SNuFKpilaB?usp=drive_link ]
 ---
 
